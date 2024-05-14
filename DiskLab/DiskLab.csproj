@@ -2,15 +2,25 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UseWPF>True</UseWPF>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="DiskGazer">
       <HintPath>libs\DiskGazer.dll</HintPath>
     </Reference>
+    <Reference Include="System.CodeDom">
+      <HintPath>libs\System.CodeDom.dll</HintPath>
+    </Reference>
   </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Compat.Runtime.Serialization" Version="1.0.3" />
+		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+		<PackageReference Include="System.Management" Version="8.0.0" />
+		<PackageReference Include="System.Runtime" Version="4.3.1" />
+	</ItemGroup>
 
 </Project>

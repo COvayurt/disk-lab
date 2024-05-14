@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiskLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8475e974f2eba47c38c026053823463f529b2bad")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiskLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiskLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
