@@ -15,3 +15,8 @@ C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\refint\DiskLab.d
 C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.pdb
 C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.genruntimeconfig.cache
 C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\ref\DiskLab.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.sourcelink.json
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\System.Management.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\Compat.Runtime.Serialization.dll
