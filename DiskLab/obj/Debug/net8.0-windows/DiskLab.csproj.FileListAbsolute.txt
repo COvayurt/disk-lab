@@ -19,3 +19,4 @@ C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0-windows\refint\D
 C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0-windows\DiskLab.pdb
 C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0-windows\DiskLab.genruntimeconfig.cache
 C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0-windows\ref\DiskLab.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0-windows\DiskGazer.dll.config

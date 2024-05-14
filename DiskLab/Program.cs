@@ -21,8 +21,6 @@ namespace DiskGazer.App
             IDiskSpeedGazer diskSpeedGazer = DiskSpeedGeezerFactory.getDiskSpeedGazerInstance();
             DiskInfo diskInfo = diskSpeedGazer.FindTheFastestDisk();
             Console.WriteLine("Fastest Disk is : " + diskInfo.Name);
-            Console.WriteLine("Press key to continue...");
-            Console.ReadLine();
         }
     }
 }
