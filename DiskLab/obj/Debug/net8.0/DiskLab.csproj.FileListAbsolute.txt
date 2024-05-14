@@ -1,0 +1,17 @@
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\DiskLab.exe
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\DiskLab.deps.json
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\DiskLab.runtimeconfig.json
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\DiskLab.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\DiskLab.pdb
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\bin\Debug\net8.0\DiskGazer.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.csproj.AssemblyReference.cache
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.AssemblyInfoInputs.cache
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.AssemblyInfo.cs
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.csproj.CoreCompileInputs.cache
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.csproj.Up2Date
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\refint\DiskLab.dll
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.pdb
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\DiskLab.genruntimeconfig.cache
+C:\Users\covayurt\source\repos\DiskLab\DiskLab\obj\Debug\net8.0\ref\DiskLab.dll
